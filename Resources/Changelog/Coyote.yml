@@ -4108,3 +4108,10 @@ Entries:
   id: 449
   time: '2026-09-27T04:09:53.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/203
+- author: tenmillimaster
+  changes:
+    - type: Fix
+      message: Corrected Punk Infoshades Sprite Rotation
+  id: 450
+  time: '2026-09-27T17:29:59.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/207
