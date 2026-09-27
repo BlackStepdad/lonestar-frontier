@@ -4095,3 +4095,16 @@ Entries:
   id: 448
   time: '2026-09-27T02:39:43.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/202
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        The Cave FTL event has been remapped to be larger and more spread out in
+        its loot.
+    - type: Tweak
+      message: >-
+        The Syndicate FTL Intercept (Syndie UIV) has had some slight mapping
+        tweaks to give the AI a better fighting chance.
+  id: 449
+  time: '2026-09-27T04:09:53.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/203
