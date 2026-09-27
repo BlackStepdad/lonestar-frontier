@@ -4062,3 +4062,10 @@ Entries:
   id: 445
   time: '2026-09-27T01:12:26.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/200
+- author: tenmillimaster
+  changes:
+    - type: Tweak
+      message: Rebalanced Anaconda
+  id: 446
+  time: '2026-09-27T01:13:54.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/191
