@@ -4069,3 +4069,20 @@ Entries:
   id: 446
   time: '2026-09-27T01:13:54.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/191
+- author: archee1
+  changes:
+    - type: Fix
+      message: >-
+        Items bought by uplinks no longer reward the currency they are bought
+        with when sold at faction selling pallets.
+    - type: Fix
+      message: >-
+        faction selling pallets no longer delete items that have had their value
+        updated to 0, such as those bought at a vendor.
+    - type: Tweak
+      message: >-
+        Freelancer up links are once again coconuts, and unable to be put in
+        your PDA or recycled.
+  id: 447
+  time: '2026-09-27T01:29:55.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/201
