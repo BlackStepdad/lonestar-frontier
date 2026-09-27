@@ -4055,3 +4055,10 @@ Entries:
   id: 444
   time: '2026-09-26T14:46:15.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/192
+- author: tenmillimaster
+  changes:
+    - type: Tweak
+      message: Lets Biogens use biomass from silos.
+  id: 445
+  time: '2026-09-27T01:12:26.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/200
