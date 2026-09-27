@@ -4115,3 +4115,14 @@ Entries:
   id: 450
   time: '2026-09-27T17:29:59.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/207
+- author: archee1
+  changes:
+    - type: Tweak
+      message: The RPED now has a 4x6 storage
+    - type: Tweak
+      message: >-
+        Construction bags can now fit powercells, conveyorbelts, flatpacks, RCD
+        ammo, and machine boards.
+  id: 451
+  time: '2026-09-27T19:41:31.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/208
