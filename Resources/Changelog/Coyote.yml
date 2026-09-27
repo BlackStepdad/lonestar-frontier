@@ -4086,3 +4086,12 @@ Entries:
   id: 447
   time: '2026-09-27T01:29:55.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/201
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        Jaws of life and death have had their sprites updated to better fit the
+        companies that logically produced them.
+  id: 448
+  time: '2026-09-27T02:39:43.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/202
