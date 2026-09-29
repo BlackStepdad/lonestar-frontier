@@ -4126,3 +4126,10 @@ Entries:
   id: 451
   time: '2026-09-27T19:41:31.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/208
+- author: tenmillimaster
+  changes:
+    - type: Tweak
+      message: Swapped merc captain loot from n2524 to Mahifa
+  id: 452
+  time: '2026-09-29T12:41:47.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/213
