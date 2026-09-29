@@ -4142,3 +4142,10 @@ Entries:
   id: 453
   time: '2026-09-29T12:43:07.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/198
+- author: trashqueenlily
+  changes:
+    - type: Tweak
+      message: 'Artifact fragments fit inside of material silos now! '
+  id: 454
+  time: '2026-09-29T13:29:49.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/204
