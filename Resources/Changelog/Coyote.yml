@@ -4156,3 +4156,12 @@ Entries:
   id: 455
   time: '2026-10-01T02:42:14.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/205
+- author: archee1
+  changes:
+    - type: Fix
+      message: >-
+        Expedition spawners no longer get stuck spawning things more often than
+        intended.
+  id: 456
+  time: '2026-10-01T16:30:13.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/216
