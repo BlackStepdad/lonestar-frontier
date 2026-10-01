@@ -4149,3 +4149,10 @@ Entries:
   id: 454
   time: '2026-09-29T13:29:49.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/204
+- author: tenmillimaster
+  changes:
+    - type: Tweak
+      message: Made Interdyne Herbals un reclaimable.
+  id: 455
+  time: '2026-10-01T02:42:14.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/205
